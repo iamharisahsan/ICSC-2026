@@ -25,7 +25,7 @@ The repository is organized by competition rounds. Inside each folder, you will 
 |         └── Haris - Performance Report - QR - ICSC 2026.pdf
 |   
 └── README.md
-
+```
 ---
 
 ## 🚀 Progress & Status
